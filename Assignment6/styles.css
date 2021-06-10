@@ -1,0 +1,58 @@
+body {
+    background: url('https://t3.ftcdn.net/jpg/02/66/34/70/360_F_266347082_qnZLppWcnm5a4OA5cGNE1amPi01lpEmV.jpg') no-repeat;
+    background-size: cover;
+    
+    text-align: center;
+}
+
+.heading {
+    border: 3px solid black;
+    width: 500px;
+    height: 100px;
+    text-align: center;
+    font-size: 60px;
+    margin-top: 100px;
+    margin-left: 550px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: thistle
+}
+
+table,
+th,
+td {
+    border: 5px solid purple;
+    float: left;
+    background-color: rgba(0, 26, 48, 0.932)
+}
+
+input[type=text] {
+    width: 350px;
+    height: 50px;
+    font-size: large;
+}
+
+.value {
+    background-color: black;
+    color: white;
+    width: 80px;
+    height: 60px;
+}
+
+input.value:hover {
+    background-color: grey;
+}
+
+input[type=button] {
+    background-color: black;
+    color: white;
+    width: 80px;
+    height: 60px;
+}
+
+table {
+    margin-top: 100px;
+    margin-bottom: 400px;
+    margin-left: 600px;
+    margin-right: 400px;
+    text-align: center;
+}
